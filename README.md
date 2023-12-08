@@ -14,11 +14,11 @@
 - 🌏 **Languages:** Mandarin, English, Japanese
 - 🛠 **Tools:** Git, GitHub, VSCode, Latex, Markdown
 
-## Hobbies and Interests
+## Hobbies & Interests
 
 When I'm not coding or learning about new technologies, I enjoy:
 
 - 🐱 Playing with my cat
-- 🏔 Climbing mountains
+- 🏔 Climbing mountains / Hiking
 - 🏓 Playing table tennis
 - 🎥 Watching movies
