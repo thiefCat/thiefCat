@@ -1,4 +1,4 @@
-# Hi, I'm Songlin Zhao 👋
+<h1 align="center">Hi, I'm Songlin Zhao 👋</h1>
 
 ## About me
 
@@ -8,13 +8,13 @@
 - 📧 How to reach me: 120090346@link.cuhk.edu.cn
 - 🌏 Visit my personal website: [website](https://thiefcat.github.io/)
 
-## Technologies & Tools 🔧
+## Technologies & Tools
 
 - 💻 **Programming Languages:** Python, Java, C, C++, R
 - 🌏 **Languages:** Mandarin, English, Japanese
 - 🛠 **Tools:** Git, GitHub, VSCode, Latex, Markdown
 
-## Hobbies and Interests 
+## Hobbies and Interests
 
 When I'm not coding or learning about new technologies, I enjoy:
 
