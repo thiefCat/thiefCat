@@ -12,7 +12,7 @@
 
 - 💻 **Programming Languages:** Python, Java, C, C++, R
 - 🌏 **Languages:** Mandarin, English, Japanese
-- 🛠 **Tools:** Git, GitHub, VSCode, Latex, Markdown
+- 🛠 **Tools:** Git, Latex, Markdown
 
 ## Hobbies & Interests
 
