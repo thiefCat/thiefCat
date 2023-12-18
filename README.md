@@ -2,7 +2,7 @@
 
 ## About me
 
-- 📖 I'm majoring Data Science and Big Data Technology at CUHK(SZ)
+- 📖 I'm majoring in Data Science and Big Data Technology at CUHK(SZ)
 - 🔭 I’m currently learning about Software Engineering and Computer Systems
 - ⚡ I'm currently applying graduate study in Computer Science
 - 📧 How to reach me: 120090346@link.cuhk.edu.cn
