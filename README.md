@@ -10,10 +10,10 @@
 
 ## Technologies & Tools
 
-- 💻 **Programming Languages:** Python, Java, C, C++
+- 💻 **Programming Languages:** Python, Java, Javascript, C, C++
 - 🌏 **Languages:** Mandarin, English, Japanese
 - 🛠 **Tools:** Git, Latex, Markdown
-- :electron: **Frameworks:**
+- :electron: **Frameworks:** React.js, Spring Boot, Vue.js, Express.js
 
 ## Hobbies & Interests
 
