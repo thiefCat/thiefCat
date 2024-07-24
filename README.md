@@ -5,7 +5,7 @@
 - 📖 I'm majoring in Data Science and Big Data Technology at CUHK(SZ)
 - 🔭 I’m currently learning various computer science knowledge
 - ⚡ I'm going to pursue my master's degree in UCSD CS75 program
-- 📧 How to reach me: 120090346@link.cuhk.edu.cn
+- 📧 How to reach me: soz010@ucsd.edu
 - 🌏 Visit my personal website: [website](https://thiefcat.github.io/)
 
 ## Technologies & Tools
@@ -13,6 +13,7 @@
 - 💻 **Programming Languages:** Python, Java, C, C++
 - 🌏 **Languages:** Mandarin, English, Japanese
 - 🛠 **Tools:** Git, Latex, Markdown
+- :electron: **Frameworks:**
 
 ## Hobbies & Interests
 
