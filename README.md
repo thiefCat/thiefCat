@@ -2,9 +2,9 @@
 
 ## About me
 
-- 📖 I'm majoring in Data Science and Big Data Technology at CUHK(SZ)
+- 📖 I completed my Bachelor's degree of Data Science and Big Data Technology at CUHK(SZ)
+- ⚡ I'm pursuing my master's degree in UCSD CS75 program
 - 🔭 I’m currently learning various computer science knowledge
-- ⚡ I'm going to pursue my master's degree in UCSD CS75 program
 - 📧 How to reach me: soz010@ucsd.edu
 - 🌏 Visit my personal website: [website](https://thiefcat.github.io/)
 
@@ -13,7 +13,7 @@
 - 💻 **Programming Languages:** Python, Java, Javascript, C, C++
 - 🌏 **Languages:** Mandarin, English, Japanese
 - 🛠 **Tools:** Git, Latex, Markdown
-- :electron: **Frameworks:** React.js, Spring Boot, Vue.js, Express.js
+- :electron: **Frameworks:** React.js, Spring Boot, Vue.js, Express.js, Node.js
 
 ## Hobbies & Interests
 
