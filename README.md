@@ -2,8 +2,8 @@
 
 ## About me
 
-- 📖 I completed my Bachelor's degree of Data Science and Big Data Technology at CUHK(SZ)
 - ⚡ I'm pursuing my master's degree in UCSD CS75 program
+- 📖 I completed my Bachelor's degree of Data Science and Big Data Technology at CUHK(SZ)
 - 🔭 I’m currently learning various computer science knowledge
 - 📧 How to reach me: soz010@ucsd.edu
 - 🌏 Visit my personal website: [website](https://thiefcat.github.io/)
